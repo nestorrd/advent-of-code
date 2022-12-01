@@ -1,3 +1,6 @@
+## General
+https://adventofcode.com/
+
 ## Requirements
 - Go language installed (go 1.19 windows/amd64 used during development).
   
