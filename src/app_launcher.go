@@ -42,5 +42,7 @@ func main() {
 	switch parsedData.Code {
 	case "day_1":
 		Day_1(string(input))
+	case "day_2":
+		Day_2(string(input))
 	}
 }
