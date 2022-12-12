@@ -11,6 +11,8 @@ import (
 const (
 	Inputs_path   = "inputs/"
 	Programs_path = "src/"
+	Part1         = 1
+	Part2         = 2
 )
 
 // Struct
@@ -56,5 +58,11 @@ func main() {
 		Day_7(string(input))
 	case "day_8":
 		Day_8(string(input))
+	case "day_9":
+		Day_9(string(input))
+	case "day_10":
+		Day_10(string(input))
+	case "day_11":
+		Day_11(string(input))
 	}
 }
