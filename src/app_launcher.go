@@ -66,5 +66,7 @@ func main() {
 		Day_11(string(input))
 	case "day_12":
 		Day_12(string(input))
+	case "day_13":
+		Day_13(string(input))
 	}
 }
